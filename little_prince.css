@@ -1,19 +1,11 @@
-.ut{
+.underlined{
 	text-decoration: underline;
 }
 
-.p3{
+#orange_background{
 	background-color: orange; 
 }
 
-#p5{
+.red_text{
 	color:red;
-}
-
-#p7{
-	color:red;
-}
-
-#p9{
-	text-decoration: underline;
 }
