@@ -1,5 +1,5 @@
 
-span{
+span3{
 	text-decoration: underline;
 }
 
@@ -7,18 +7,5 @@ span1{
 	background-color: orange; 
 }
 span2{
-	color:red;
-}
-
-
-.underlined{
-	text-decoration: underline;
-}
-
-#orange_background{
-	background-color: orange; 
-}
-
-.red_text{
 	color:red;
 }
