@@ -1,11 +1,13 @@
 
-span{
+
+.underlined{
 	text-decoration: underline;
 }
 
-span{
+.orange_background{
 	background-color: orange; 
 }
-span2{
+
+.red_text{
 	color:red;
 }
