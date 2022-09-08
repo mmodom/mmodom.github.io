@@ -3,7 +3,12 @@ span{
 	text-decoration: underline;
 }
 
-
+span1{
+	background-color: orange; 
+}
+span2{
+	color:red;
+}
 
 
 .underlined{
